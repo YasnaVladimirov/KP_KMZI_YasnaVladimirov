@@ -1,0 +1,48 @@
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.exe
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\bin\Debug\net6.0\EncryptedMessage2.txt
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.deps.json
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.runtimeconfig.json
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.dll
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.pdb
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.AssemblyInfo.cs
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.dll
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\obj\Debug\net6.0\refint\CountLetters.dll
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.pdb
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.genruntimeconfig.cache
+C:\Users\User\Desktop\КМЗИ\CountLetters (3)\CountLetters\CountLetters\obj\Debug\net6.0\ref\CountLetters.dll
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.exe
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\bin\Debug\net6.0\EncryptedMessage2.txt
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.deps.json
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.runtimeconfig.json
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.dll
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.pdb
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.AssemblyInfo.cs
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.dll
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\refint\CountLetters.dll
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.pdb
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.genruntimeconfig.cache
+C:\Users\User\Desktop\КМЗИ\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\ref\CountLetters.dll
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.exe
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\bin\Debug\net6.0\EncryptedMessage2.txt
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.deps.json
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.runtimeconfig.json
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.dll
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\bin\Debug\net6.0\CountLetters.pdb
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.AssemblyInfo.cs
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.dll
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\refint\CountLetters.dll
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.pdb
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\CountLetters.genruntimeconfig.cache
+C:\Users\User\Desktop\КМЗИ\КП_ЯснаВладимиров_31\CountLetters\CountLetters\CountLetters\obj\Debug\net6.0\ref\CountLetters.dll
